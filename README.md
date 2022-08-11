@@ -1,4 +1,6 @@
-This is "JJ Shep", my alt account. 
+This is "JJ Shep", my alt account. My main account is Elusive_ZDT, but I don't have a Github account in that name.
+
+Main username/hostname: zhoudt@Advance
 
 I’m interested in: Linux (mainly Arch and Gentoo)
 
