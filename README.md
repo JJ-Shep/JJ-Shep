@@ -7,5 +7,3 @@ Main username/hostname: zhoudt@Advance
 I’m interested in: Linux (mainly Arch and Gentoo)
 
 How to reach me: Discord - ElusiveNULL#6374
-
-Alternative: cesces2005@gmail.com
