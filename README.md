@@ -1,4 +1,4 @@
-This is "JJ Shep", my alt account. My main account is Elusive_ZDT, but I don't have a Github account in that name.
+This is "JJ Shep", my alt account. My main account is ElusiveNULL, but I don't have a Github account in that name.
 
 Main username/hostname: zhoudt@Advance
 
