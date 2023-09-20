@@ -4,4 +4,4 @@ Main username/hostname: zhoudt@Advance
 
 I’m interested in: Linux (mainly Arch and Gentoo)
 
-How to reach me: Discord - ElusiveNULL#6374
+How to reach me: Discord - @elusivenull
